@@ -4,7 +4,7 @@
 
 pacman::p_load(devtools, usethis, tidyverse)
 
-#introducirme a git
+#introducirme a git // una vez
 usethis::use_git_config(user.name="Zack Narnor", user.email="zack.narnor@gmail.com")
 
 usethis::use_git()
