@@ -4,6 +4,9 @@
 
 pacman::p_load(devtools, usethis, tidyverse)
 
+#introducirme a git
+usethis::use_git_config(user.name="Zack Narnor", user.email="zack.narnor@gmail.com")
+
 usethis::use_git()
 #press no and then say yes to restart r
 
